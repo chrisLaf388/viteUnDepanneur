@@ -16,14 +16,18 @@ driver.get('https://www.vite-un-depanneur.fr/recherche/auto/06/petits%20travaux'
 time.sleep(2)
 btnCookies = driver.find_element_by_xpath('//*[@id="privacy-cookie-banner"]/div/p/strong[2]')
 btnCookies.click()
-
+comptPage = 2
 raisonSociales = []
 adresses = []
 tels = []
 
-for i in range(1,10):
+for i in range(2,4):
 
     for i in range(0, 18):
+        nextBtn = driver.find_element_by_xpath('//*[@class="adp-icon adp-icon--chevron-droit"]')
+        for page in range(1, comptPage):
+            # page Suivante
+            nextBtn.click()
 
         try:
 
@@ -46,10 +50,8 @@ for i in range(1,10):
             print('null')
         # page précédente
         driver.back()
+        comptPage = comptPage + 1
 
-    # page Suivante
-    nextBtn = driver.find_element_by_xpath('//*[@class="adp-icon adp-icon--chevron-droit"]')
-    nextBtn.click()
 
 
 #Mise en forme du tableau

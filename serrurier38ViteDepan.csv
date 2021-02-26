@@ -1,0 +1,752 @@
+|Raison Sociale|Adresses|Telephone
+0|Andéol fermetures|109 r alliés 38100 GRENOBLE|04 38 49 80 80
+1|Ets roche père et fils|23 r condorcet 38000 GRENOBLE|04 76 46 30 04
+2|Engie home services-savelys|12 r maugiron 38200 VIENNE|04 74 85 49 56
+3|Clé dauphinoise|8 r marcel porte 38100 GRENOBLE|04 76 42 58 60
+4|Fer & feu|31 av 8 mai 1945 38500 VOIRON|04 76 05 99 38
+5|Ab depan 38|12 r claude genin 38100 GRENOBLE|04 76 75 51 30
+6|Fiat et fils|8 r cuvier 38000 GRENOBLE|04 76 96 28 61
+7|La clef d'or viennoise - point fort fichet|16 r jean moulin 38200 VIENNE|04 74 20 20 00
+8|Serrurier services|2 pl doct valois 38210 TULLINS|04 57 20 62 57
+9|Hop' dépannage|6 r joseph brenier 38200 VIENNE|04 74 56 02 65
+10|Isère serrurerie|8 r duployé 38100 GRENOBLE|06 23 63 05 62
+11|Artisans vitriers serruriers avs|40 r andré maginot 38000 GRENOBLE|04 76 96 16 60
+12|Act dépannage|8 cours libération et gén de gaulle 38100 GRENOBLE|04 76 21 32 16
+13|Fer et défaire|24 montée nid 38300 BOURGOIN JALLIEU|06 45 71 74 10
+14|Ads 38|95 rte traverse 38430 MOIRANS|06 27 17 66 65
+15|Alpes serrures|9 r anne franck 38400 SAINT MARTIN D'HÈRES|06 99 08 88 89
+16|Ags dépannage|18 r tuilerie 38170 SEYSSINET PARISET|04 76 70 30 80
+17|Adf artisan de france|285 rte dauphiné 38630 AVENIÈRES VEYRINS THUELLIN (LES)|06 18 12 85 63
+18|Revenu dominique sarl|9 quai bourbre 38300 BOURGOIN JALLIEU|04 74 97 41 76
+19|Vellay jerome|Chem poterie 38300 RUY MONTCEAU|06 25 27 00 95
+20|La serrurerie|62 pl italie 73000 CHAMBÉRY|07 71 81 92 32
+21|L' atelier du rhône|45 r de sèze 69006 LYON|04 78 18 70 56
+22|Multiservice bati pro|12 r louis de funès 69800 SAINT PRIEST|06 10 81 98 08
+23|Fiat et fils|8 r cuvier 38000 GRENOBLE|04 76 96 28 61
+24|Fichet point fort axxess concessionnaire|51 r de la thibaudière 69007 LYON|04 37 70 62 55
+25|La clef d'or viennoise - point fort fichet|16 r jean moulin 38200 VIENNE|04 74 20 20 00
+26|Serrurerie michel de a à z|38 r artaud 69004 LYON|04 78 30 10 07
+27|Fer & feu|31 av 8 mai 1945 38500 VOIRON|04 76 05 99 38
+28|Serrurier services|2 pl doct valois 38210 TULLINS|04 57 20 62 57
+29|Hop' dépannage|6 r joseph brenier 38200 VIENNE|04 74 56 02 65
+30|Isère serrurerie|8 r duployé 38100 GRENOBLE|06 23 63 05 62
+31|Ab depan 38|12 r claude genin 38100 GRENOBLE|04 76 75 51 30
+32|Serrurerie générale moiroud|7 av catelines 69720 SAINT LAURENT DE MURE|04 78 40 83 49
+33|Art et fermetures|12 r marc bloch 69007 LYON|04 72 72 91 91
+34|Rénovation maintenance assistance bâtiment rmab|86 rte genas 69003 LYON|04 28 01 21 21
+35|Margerit multi-services|Pizay 42400 SAINT CHAMOND|07 71 94 52 20
+36|Adf artisan de france|285 rte dauphiné 38630 AVENIÈRES VEYRINS THUELLIN (LES)|06 18 12 85 63
+37|Abc abri blindage|30 quai doct gailleton 69002 LYON|04 78 05 04 31
+38|Chevalier frères|6 r de la madeleine 69007 LYON|04 72 13 06 06
+39|Confort & sécurité|143 av mar de saxe 69003 LYON|06 15 98 91 33
+40|Serrurerie a2s drouard|49 r macornet 73000 CHAMBÉRY|04 79 33 33 57
+41|Art et fermetures|12 r marc bloch 69007 LYON|04 72 72 91 91
+42|La clef tournonaise|1 av mar foch 07300 TOURNON SUR RHÔNE|04 27 66 97 13
+43|Cordonnerie des gratte ciel|79 r anatole france 69100 VILLEURBANNE|06 60 88 65 35
+44|Clôture feyzinoise|14 r hector berlioz 69320 FEYZIN|06 62 71 42 95
+45|Adf artisan de france|285 rte dauphiné 38630 AVENIÈRES VEYRINS THUELLIN (LES)|06 18 12 85 63
+46|Paradis en fer|525 rte nationale 6 69380 DOMMARTIN|04 72 54 40 10
+47|Fer et défaire|24 montée nid 38300 BOURGOIN JALLIEU|06 45 71 74 10
+48|Allo artisan assistance beautiful clé aaabc|12 r jeu de paume 26300 BOURG DE PÉAGE|04 75 72 47 88
+49|Ads 38|95 rte traverse 38430 MOIRANS|06 27 17 66 65
+50|Alpes serrures|9 r anne franck 38400 SAINT MARTIN D'HÈRES|06 99 08 88 89
+51|Serrurerie générale moiroud|7 av catelines 69720 SAINT LAURENT DE MURE|04 78 40 83 49
+52|Ags dépannage|18 r tuilerie 38170 SEYSSINET PARISET|04 76 70 30 80
+53|Ab confiance|245 r paul bert 69003 LYON|04 72 35 11 73
+54|Entreprise lyonnaise de bat carmia|46 bis r marcelin berthelot 69120 VAULX EN VELIN|04 72 32 24 07
+55|Confort & sécurité|143 av mar de saxe 69003 LYON|06 15 98 91 33
+56|Building service|11 r georges bernard 26100 ROMANS SUR ISÈRE|06 38 03 30 85
+57|Margerit multi-services|Pizay 42400 SAINT CHAMOND|07 71 94 52 20
+58|Asymetrix|30 bis rte charly 69230 SAINT GENIS LAVAL|04 78 56 26 09
+59|Serrurerie albert thomas|50 cours tolstoï 69100 VILLEURBANNE|04 78 84 24 71
+60|Ab confiance|245 r paul bert 69003 LYON|04 72 35 11 73
+61|Vassy jean jacques|155 chem côteau 26750 SAINT PAUL LÈS ROMANS|04 75 71 43 73
+62|Confort & sécurité|143 av mar de saxe 69003 LYON|06 15 98 91 33
+63|Adf artisan de france|285 rte dauphiné 38630 AVENIÈRES VEYRINS THUELLIN (LES)|06 18 12 85 63
+64|Mathieu sarl|20 r berjon 69009 LYON|04 72 18 96 99
+65|Serrurerie albert thomas|50 cours tolstoï 69100 VILLEURBANNE|04 78 84 24 71
+66|Absolu fermetures et securité|68 av félix faure 69003 LYON|04 37 57 70 00
+67|Cordonnerie des gratte ciel|79 r anatole france 69100 VILLEURBANNE|06 60 88 65 35
+68|Revenu dominique sarl|9 quai bourbre 38300 BOURGOIN JALLIEU|04 74 97 41 76
+69|Serrurerie roland|149 cours doct long 69003 LYON|06 68 67 65 65
+70|Dsbc serrurier|23 all clos de syrah 26600 LA ROCHE DE GLUN|06 08 45 64 40
+71|Acces l'|76 r eugène pons 69004 LYON|04 78 39 18 18
+72|Vellay jerome|Chem poterie 38300 RUY MONTCEAU|06 25 27 00 95
+73|Fer envies|20 bis r barnave 38400 SAINT MARTIN D'HÈRES|06 60 32 93 70
+74|Home services|29 r antoine vacher 69330 MEYZIEU|07 61 45 01 07
+75|Laadam serrurerie fermeture|77 r echasse 38070 SAINT QUENTIN FALLAVIER|06 50 13 05 01
+76|Constr metall serrur generale m sorgue|24 r hugues guérin 69008 LYON|04 78 74 13 04
+77|Picard dépannage kéléchian sarl|10 pl carmes 38200 VIENNE|04 74 85 74 69
+78|A.m.f|8 r joseph cugnot 38300 BOURGOIN JALLIEU|04 76 46 11 11
+79|Chiron ponson sarl|20 r marais 26260 SAINT DONAT SUR L'HERBASSE|04 75 45 16 85
+80|Serrurrerie arnaud-chanut sarl|75 r joseph moulin 69290 CRAPONNE|04 78 81 24 16
+81|Serrurerie bl|80 rte coin 42400 SAINT CHAMOND|04 77 46 18 59
+82|Guinet services stop guêpes|1354 rte montagne 38850 PALADRU|04 76 37 15 22
+83|Dsbc serrurier|23 all clos de syrah 26600 LA ROCHE DE GLUN|06 08 45 64 40
+84|Falcoz jean luc|39 r aristide briand 38490 ABRETS EN DAUPHINÉ (LES)|06 26 98 88 78
+85|Osv serrurier vitrier lyon|33 r république 69002 LYON|06 84 94 43 95
+86|Home services|29 r antoine vacher 69330 MEYZIEU|07 61 45 01 07
+87|Laadam serrurerie fermeture|77 r echasse 38070 SAINT QUENTIN FALLAVIER|06 50 13 05 01
+88|Sylvestre serrurerie|10 pl libération 73190 CHALLES LES EAUX|06 43 63 99 69
+89|Déco fusion|18 av marcellin berthelot 38200 VIENNE|06 51 04 59 33
+90|Gervason fermetures dépannage et urgence|17 bd colonne 73000 CHAMBÉRY|06 13 68 36 26
+91|Chevalier frères|54 r paul verlaine 69100 VILLEURBANNE|06 13 04 02 22
+92|Chiron ponson sarl|20 r marais 26260 SAINT DONAT SUR L'HERBASSE|04 75 45 16 85
+93|Revenu dominique sarl|9 quai bourbre 38300 BOURGOIN JALLIEU|04 74 97 41 76
+94|Fer envies|20 bis r barnave 38400 SAINT MARTIN D'HÈRES|06 60 32 93 70
+95|A.m.f|8 r joseph cugnot 38300 BOURGOIN JALLIEU|04 76 46 11 11
+96|A2+ dépannage|61 r anatole france 69100 VILLEURBANNE|04 72 40 40 39
+97|M.s.i.|Zi verchères 38540 SAINT JUST CHALEYSSIN|06 60 05 70 49
+98|Fontbonne et fils|57 r emile zola 69150 DÉCINES CHARPIEU|04 78 49 06 98
+99|Lyon métal|11 r marius berliet 69720 SAINT BONNET DE MURE|04 30 22 04 38
+100|Osv serrurier vitrier lyon|33 r république 69002 LYON|06 84 94 43 95
+101|Sylvestre serrurerie|10 pl libération 73190 CHALLES LES EAUX|06 43 63 99 69
+102|Chiron ponson sarl|20 r marais 26260 SAINT DONAT SUR L'HERBASSE|04 75 45 16 85
+103|Faac la clé lyonnaise|68 bd brotteaux 69006 LYON|04 78 52 80 89
+104|Fer envies|20 bis r barnave 38400 SAINT MARTIN D'HÈRES|06 60 32 93 70
+105|Devaux fillard habitat|86 r dent du chat 73420 VOGLANS|04 79 52 04 10
+106|Bricard|17 r gerland 69007 LYON|04 78 58 96 74
+107|Soud-inox eurl|Le flacher 07340 FÉLINES|04 75 33 26 38
+108|2m serrurerie|1608 rte lyon 07430 DAVÉZIEUX|04 75 32 11 34
+109|Colomb métallerie|30 r jules duclos 42400 SAINT CHAMOND|06 81 33 04 73
+110|Courtial mdi|27 r république 42400 SAINT CHAMOND|04 77 22 04 11
+111|Bourret devillers serrurerie|33 av gén leclerc 69300 CALUIRE ET CUIRE|06 13 22 81 81
+112|Abatis sarl|52 r thiers 38000 GRENOBLE|04 76 46 26 20
+113|Md multiservices dépannage|505 rte romans 26600 CHANOS CURSON|06 59 74 25 07
+114|Tfb 2000|4 r provence 38130 ECHIROLLES|04 38 49 81 81
+115|Art de fer de la roche|33 rte paris 69260 CHARBONNIÈRES LES BAINS|06 15 93 22 81
+116|Charnin eurl|3 all lavandes 69160 TASSIN LA DEMI LUNE|07 82 21 95 71
+117|Unimate (sas)|18 chem aigais 69530 BRIGNAIS|04 78 05 18 66
+118|Giraud - laurent|12 av nord 69160 TASSIN LA DEMI LUNE|06 75 03 06 48
+119|Multi service dépannage 38|21 r lieut chabal 38100 GRENOBLE|06 99 05 55 06
+120|Abatis sarl|52 r thiers 38000 GRENOBLE|04 76 46 26 20
+121|Nivolas services|79 pass glycines 38300 NIVOLAS VERMELLE|04 74 90 54 70
+122|Monsieur serge gonzalez|114 av gén frère 69008 LYON|04 78 75 63 53
+123|Unimate (sas)|18 chem aigais 69530 BRIGNAIS|04 78 05 18 66
+124|Tfb 2000|4 r provence 38130 ECHIROLLES|04 38 49 81 81
+125|Ateliers cornu sarl|10 av lyon 07300 TOURNON SUR RHÔNE|04 75 08 20 03
+126|Gandelli jean-loup|41 chem rocher 73410 ENTRELACS|06 75 32 82 55
+127|Charnin eurl|3 all lavandes 69160 TASSIN LA DEMI LUNE|07 82 21 95 71
+128|Valette metallerie serrurerie sarl|26 av jean jaurès 26600 TAIN L'HERMITAGE|04 75 08 22 93
+129|Multi service dépannage 38|21 r lieut chabal 38100 GRENOBLE|06 99 05 55 06
+130|Md multiservices dépannage|505 rte romans 26600 CHANOS CURSON|06 59 74 25 07
+131|Luc martin sas|43 r vivarais 26320 SAINT MARCEL LÈS VALENCE|04 75 55 03 32
+132|Ferronnerie-serrurerie ragot|109 grande rue 69390 VERNAISON|06 16 96 15 94
+133|Charly serrurerie|Zone artisanale ila 38220 LIVET|04 76 78 62 55
+134|Mr serrurier|53 d r hermières 69340 FRANCHEVILLE|06 51 23 34 70
+135|Bricard|17 r gerland 69007 LYON|04 78 58 96 74
+136|La maison de la cle|4 pl tobie robatel 69001 LYON|06 14 20 87 73
+137|Metallerie serrurerie pascal pugnet|19 r louvasset 38500 VOIRON|04 76 67 44 33
+138|Ferosteel|286 chem cruet 73420 DRUMETTAZ CLARAFOND|07 82 79 29 88
+139|Devaux fillard habitat|86 r dent du chat 73420 VOGLANS|04 79 52 04 10
+140|Métaligne|Zone d'activite beauregard 26300 CHÂTEAUNEUF SUR ISÈRE|04 75 05 26 47
+141|Colomb métallerie|30 r jules duclos 42400 SAINT CHAMOND|06 81 33 04 73
+142|Zabatta eurl|664 rte st quentin 38210 TULLINS|04 76 07 87 89
+143|Nivolas services|79 pass glycines 38300 NIVOLAS VERMELLE|04 74 90 54 70
+144|Manchon métal services|1201 av prés seigneurs 01120 DAGNEUX|06 25 14 90 01
+145|Valente metallerie|3 r pierre devaux 69360 SÉRÉZIN DU RHÔNE|04 72 53 95 42
+146|Serrurerie croix roussienne distrib serrurerie|127 bd croix rousse 69004 LYON|04 78 39 12 54
+147|Serrurerie metal du batiment|Zone artisanale bièvre dauphine 38690 COLOMBE|09 63 26 65 63
+148|Serrurerie fidesienne sarl|6 all claude bachelard 69110 SAINTE FOY LÈS LYON|04 78 25 65 82
+149|Gilles boyer|314 r jules ferry 38220 VIZILLE|06 61 70 27 58
+150|Tordjman|46 r jean zay 69800 SAINT PRIEST|04 72 89 83 00
+151|King plomberie|35 r alfred brinon 69100 VILLEURBANNE|04 26 25 03 03
+152|Jacolin franck|19 rte beaurepaire 38260 POMMIER DE BEAUREPAIRE|04 74 54 21 19
+153|Payen montage bâtiments industriels pmbi|216 chem bagatelle 38380 SAINT LAURENT DU PONT|04 76 32 82 71
+154|Cordonnerie de la voute|12 r madeleine 69007 LYON|06 21 13 25 56
+155|Menuiserie muet sarl|51 rte grenoble 38300 BOURGOIN JALLIEU|04 74 93 08 74
+156|Rojon sarl|Zone artisanale 38530 BARRAUX|04 76 97 38 83
+157|Lagrasta salvator|6 imp georges bizet 38190 FROGES|04 76 71 38 92
+158|Serrurerie monthioux|56 r auguste comte 69002 LYON|04 78 37 09 33
+159|Lopez|21 r denis papin 38800 LE PONT DE CLAIX|04 76 98 00 08
+160|Menuiserie vairai|370 av georges et louis frèrejean 38780 PONT EVÊQUE|04 74 16 07 75
+161|Deygas automatisme|2060 la ratte 26600 CHANTEMERLE LES BLÉS|06 62 04 84 35
+162|Entreprise meliodon farec fabrication sa|67 r raulin 69007 LYON|04 72 60 86 94
+163|Serrurerie dorier|6 r françois genin 69005 LYON|06 85 83 70 01
+164|Société construction rosi artisanat|12 r lavoir 26300 BESAYES|04 75 47 42 86
+165|Serrurerie fidesienne sarl|6 all claude bachelard 69110 SAINTE FOY LÈS LYON|04 78 25 65 82
+166|Manchon métal services|1201 av prés seigneurs 01120 DAGNEUX|06 25 14 90 01
+167|Keo sarl|3 r boyd 73100 AIX LES BAINS|09 73 64 72 80
+168|Métal'art|1 r constant berthet 26190 SAINT JEAN EN ROYANS|04 69 28 58 28
+169|Action plus|20 pl europe 38500 VOIRON|04 76 31 03 10
+170|Serrurerie croix roussienne distrib serrurerie|127 bd croix rousse 69004 LYON|04 78 39 12 54
+171|Tordjman|46 r jean zay 69800 SAINT PRIEST|04 72 89 83 00
+172|Chamblas menuiserie & serrurerie|147 av marcel mérieux 69530 BRIGNAIS|04 26 18 71 56
+173|Jacolin franck|19 rte beaurepaire 38260 POMMIER DE BEAUREPAIRE|04 74 54 21 19
+174|Martin g sarl|319 r laverlochère 38780 PONT EVÊQUE|04 74 16 17 77
+175|Métallerie rolland|5 chem champagneux 38300 BOURGOIN JALLIEU|04 74 93 30 30
+176|Grillon alain sarl|39 bd schweighouse 69530 BRIGNAIS|04 78 05 21 34
+177|Aurel multiservices|24 r verdun 26240 SAINT VALLIER|04 75 03 78 53
+178|Serrurerie ferronnerie boret|12 rte anneyron 26140 SAINT RAMBERT D'ALBON|04 75 31 24 13
+179|Durussel ets|3 r gustave eiffel 69360 SAINT SYMPHORIEN D'OZON|04 78 20 53 11
+180|Sarl thierry martinet sarl|12 r fleurs 69500 BRON|04 78 26 61 63
+181|Vert daniel et fils|5 pl de l'eglise 07410 COLOMBIER LE VIEUX|04 75 06 70 04
+182|Aurel multiservices|24 r verdun 26240 SAINT VALLIER|04 75 03 78 53
+183|Ha serrurerie metallerie|70 r pré magne 69126 BRINDAS|06 86 32 10 19
+184|Société construction rosi artisanat|12 r lavoir 26300 BESAYES|04 75 47 42 86
+185|Serrurerie metal du batiment|Zone artisanale bièvre dauphine 38690 COLOMBE|09 63 26 65 63
+186|S t c serrurerie tôlerie chaudronnerie|4 all gève 38600 FONTAINE|04 76 26 08 25
+187|Marion constructions métalliques sas|2054 rte varacieux 38470 VINAY|04 76 36 62 97
+188|Tochon sarl|450 r briquerie 73290 LA MOTTE SERVOLEX|04 79 25 48 55
+189|Bansac quentin|5 r pierres plantées 38090 VAULX MILIEU|06 64 36 37 03
+190|Entreprise meliodon farec fabrication sa|67 r raulin 69007 LYON|04 72 60 86 94
+191|Métal'art|1 r constant berthet 26190 SAINT JEAN EN ROYANS|04 69 28 58 28
+192|Michel thomas serrurerie|157 bis chem bas lieudieu 38440 LIEUDIEU|06 33 53 33 17
+193|A la clef delsol|45 chem du pont rouge 38300 SAINT SAVIN|04 74 18 59 80
+194|Noble acier|49 chem ardelieres 38590 BRÉZINS|04 76 06 21 54
+195|Serrurerie fidesienne sarl|6 all claude bachelard 69110 SAINTE FOY LÈS LYON|04 78 25 65 82
+196|Métallerie rolland|5 chem champagneux 38300 BOURGOIN JALLIEU|04 74 93 30 30
+197|Au tour de clé|11 r bonneton 69530 BRIGNAIS|04 78 05 26 06
+198|Cordonnerie mercière|13 r mercière 69002 LYON|04 78 37 85 04
+199|Isothentik|153 av petit port 73100 AIX LES BAINS|06 84 33 66 93
+200|Tordjman|46 r jean zay 69800 SAINT PRIEST|04 72 89 83 00
+201|Asm atelier serrurerie métallerie|166 r gén borson 73000 CHAMBÉRY|04 79 85 76 28
+202|Serrurerie des buclos|25 chem chaumetière 38240 MEYLAN|04 76 90 08 44
+203|Valente metallerie|3 r pierre devaux 69360 SÉRÉZIN DU RHÔNE|04 72 53 95 42
+204|A.m.s.d|940 rte alpes 38260 SAINT HILAIRE DE LA CÔTE|04 74 54 61 69
+205|Payen montage bâtiments industriels pmbi|216 chem bagatelle 38380 SAINT LAURENT DU PONT|04 76 32 82 71
+206|Noble acier|49 chem ardelieres 38590 BRÉZINS|04 76 06 21 54
+207|Brunet fermetures|117 av franklin roosevelt 69500 BRON|04 72 74 19 61
+208|Multiservices chamberiens|20 bd colonne 73000 CHAMBÉRY|04 79 75 11 10
+209|Berier et fils|1745 quai rhône 01700 MIRIBEL|04 78 55 31 39
+210|Lagrasta salvator|6 imp georges bizet 38190 FROGES|04 76 71 38 92
+211|Lyon protection habitat|128 rte vienne 69008 LYON|04 87 25 45 07
+212|Jeanto entreprise|3 r jules vercherin 69007 LYON|06 08 86 71 71
+213|Stid|500 parc activités ruisset 38360 NOYAREY|04 76 26 51 41
+214|Aurel multiservices|24 r verdun 26240 SAINT VALLIER|04 75 03 78 53
+215|Atelier du métallier l' - eurl|38 r galliéni 42400 SAINT CHAMOND|04 77 22 56 37
+216|Serrurerie dorier|6 r françois genin 69005 LYON|06 85 83 70 01
+217|Scat sarl|2 r bois pilon 38550 LE PÉAGE DE ROUSSILLON|04 74 29 98 80
+218|Gilles boyer|314 r jules ferry 38220 VIZILLE|06 61 70 27 58
+219|Jacolin franck|19 rte beaurepaire 38260 POMMIER DE BEAUREPAIRE|04 74 54 21 19
+220|Cordonnerie de la voute|12 r madeleine 69007 LYON|06 21 13 25 56
+221|Marion constructions métalliques sas|2054 rte varacieux 38470 VINAY|04 76 36 62 97
+222|Michel thomas serrurerie|157 bis chem bas lieudieu 38440 LIEUDIEU|06 33 53 33 17
+223|Vgms-venet galifet metal s|169 chem fouilleux 38440 BEAUVOIR DE MARC|06 81 75 05 60
+224|Serrurerie métallerie chaudronnerie tomassetto sarl|Zi baronnie 73330 LE PONT DE BEAUVOISIN|04 76 32 85 46
+225|Blanc metal et automatisme|La plaine st joseph 42800 SAINT MARTIN LA PLAINE|04 77 75 48 10
+226|Phm metal|4 av gén de gaulle 38800 LE PONT DE CLAIX|04 76 40 98 13
+227|L atelier metal|11 chem meannes 26540 MOURS SAINT EUSÈBE|04 75 72 58 86
+228|Dupuis serrurerie|R folletière 69700 CHASSAGNY|06 85 77 17 27
+229|Sas bat metal soudure|3 lot allées des gabettes 26140 SAINT RAMBERT D'ALBON|06 71 08 63 63
+230|Delin serrurerie vitrerie|84 r république 42400 SAINT CHAMOND|06 73 28 78 47
+231|Avenir métal|Zone artisanale 4 vies 38290 FRONTONAS|04 74 99 07 07
+232|Serrurier avenir bati'expert|54 chem pras 69350 LA MULATIÈRE|04 74 03 26 22
+233|A.c.m.t.s atelier constructions métalliques tôlerie serrurerie|24 r commdt lenoir 38600 FONTAINE|09 82 26 54 18
+234|Serrurerie f prisset et fils|187 av st simond 73100 AIX LES BAINS|04 79 35 18 72
+235|Lebigot damien|19 rte vienne 38090 VAULX MILIEU|06 98 79 67 05
+236|Pro métallerie brullioloise|Lieu-dit vaux 69690 BRULLIOLES|06 09 45 06 51
+237|Tc ferro|Imp des prés muriers 73100 GRÉSY SUR AIX|06 18 40 45 49
+238|Covermetal|R marais 73190 CHALLES LES EAUX|04 79 72 90 90
+239|Serrurerie métallerie chaudronnerie tomassetto sarl|Zi baronnie 73330 LE PONT DE BEAUVOISIN|04 76 32 85 46
+240|Laurent robert|2 r source 69160 TASSIN LA DEMI LUNE|04 78 33 38 15
+241|Portail artisanal sous traitance industrielle|9 imp marie curie 26100 ROMANS SUR ISÈRE|04 75 02 37 03
+242|Bonin sas|645 rte bougie 38780 ESTRABLIN|04 74 85 93 40
+243|Eric besson|68 av république 38130 ECHIROLLES|04 38 49 96 40
+244|Blanchet groupe|R chapelle d'yvours 69540 IRIGNY|04 77 96 82 30
+245|Real ' metal 43 sasu|Zi la guide 43200 YSSINGEAUX|06 26 01 20 23
+246|Opening|3 imp sablon 38300 BOURGOIN JALLIEU|07 71 86 00 51
+247|Diprometal|6 chem grange blanche 69960 CORBAS|04 72 50 70 17
+248|Morel (sarl)|134 r jacquard 38630 AVENIÈRES VEYRINS THUELLIN (LES)|04 74 33 74 41
+249|La clé de lyon|38 pl pavillons 69007 LYON|07 61 45 64 58
+250|Pb concept|205 r briquerie 73290 LA MOTTE SERVOLEX|06 71 47 60 33
+251|La forge de chartreuse|745 rte grenoble 38500 COUBLEVIE|04 76 05 31 00
+252|Clerc jérôme|Pierre grosse 73190 APREMONT|04 79 28 31 00
+253|Pro métallerie brullioloise|Lieu-dit vaux 69690 BRULLIOLES|06 09 45 06 51
+254|Votre serrurier lyonnais|63 r andré bollier 69007 LYON|04 69 96 58 59
+255|Jacquet benjamin|51 r monts d'or 69290 SAINT GENIS LES OLLIÈRES|04 78 48 98 05
+256|Serrurier avenir bati'expert|54 chem pras 69350 LA MULATIÈRE|04 74 03 26 22
+257|D.l.e|228 r sources 38920 CROLLES|04 76 40 18 32
+258|Votre serrurier lyonnais|63 r andré bollier 69007 LYON|04 69 96 58 59
+259|Tarres sas|Ham plaines 69850 SAINT MARTIN EN HAUT|04 78 48 63 07
+260|Garcin dominique|R jean baptiste garcin 38430 SAINT JEAN DE MOIRANS|04 76 35 01 98
+261|Serrurerie et mecanosoudure diet|Zone artisanale 38520 LE BOURG D'OISANS|04 76 80 24 40
+262|Acsa serrurerie|1 r quatre fontaines 69720 SAINT BONNET DE MURE|06 21 78 57 76
+263|Serrurerie metallerie du val d'ouest|38 quai arloing 69125 LYON SAINT EXUPÉRY AÉROPORT|06 21 92 38 05
+264|Fer des alpes|8 r alphonse allaman 38500 VOIRON|06 50 78 88 43
+265|Ferronnerie maira (sarl)|1 zone artisanale pré de la barre 38440 SAINT JEAN DE BOURNAY|06 44 14 39 17
+266|Trillat sarl|65 chem plateau 38270 BEAUREPAIRE|04 74 84 63 56
+267|Cteg|7 rte rive de gier 69700 SAINT ROMAIN EN GIER|04 72 24 59 04
+268|Jacquet benjamin|51 r monts d'or 69290 SAINT GENIS LES OLLIÈRES|04 78 48 98 05
+269|Serrurerie f prisset et fils|187 av st simond 73100 AIX LES BAINS|04 79 35 18 72
+270|Pro métallerie brullioloise|Lieu-dit vaux 69690 BRULLIOLES|06 09 45 06 51
+271|Pms hernandez|1431 rte nationale 75 38490 ABRETS EN DAUPHINÉ (LES)|06 21 92 12 96
+272|Edifices sas|95 chem moly 69230 SAINT GENIS LAVAL|04 75 79 90 40
+273|Metallerie elm|379 r mas de joug 38460 DIZIMIEU|04 74 90 68 43
+274|Farizon jean-michel serrurerie ferronnerie|Jaloine 07290 SAINT ROMAIN D'AY|04 75 34 51 69
+275|Bonin sas|645 rte bougie 38780 ESTRABLIN|04 74 85 93 40
+276|Opening|3 imp sablon 38300 BOURGOIN JALLIEU|07 71 86 00 51
+277|Les clés du lac|7 av marlioz 73100 AIX LES BAINS|04 79 54 01 79
+278|S.e serrurerie perrin|32 r jacquard 38100 GRENOBLE|04 76 68 13 09
+279|Bonin sas|645 rte bougie 38780 ESTRABLIN|04 74 85 93 40
+280|Jbt métal création|109 lot grande terre 38570 TENCIN|06 02 36 85 73
+281|Diprometal|6 chem grange blanche 69960 CORBAS|04 72 50 70 17
+282|Farizon jean-michel serrurerie ferronnerie|Jaloine 07290 SAINT ROMAIN D'AY|04 75 34 51 69
+283|D.l.e|228 r sources 38920 CROLLES|04 76 40 18 32
+284|Serrurerie ferronnerie martinez|60 r gaston duclos 07100 ANNONAY|06 66 36 87 40
+285|Pb concept|205 r briquerie 73290 LA MOTTE SERVOLEX|06 71 47 60 33
+286|Phm metal|4 av gén de gaulle 38800 LE PONT DE CLAIX|04 76 40 98 13
+287|Bonne thierry|285 rte dauphiné 38630 AVENIÈRES VEYRINS THUELLIN (LES)|04 74 27 67 40
+288|Pms hernandez|1431 rte nationale 75 38490 ABRETS EN DAUPHINÉ (LES)|06 21 92 12 96
+289|Serrurerie et mecanosoudure diet|Zone artisanale 38520 LE BOURG D'OISANS|04 76 80 24 40
+290|T champin eurl|36 rte poncin 38550 AUBERIVES SUR VARÈZE|04 74 79 97 72
+291|Serrurerie du royans|3 les dodoux 26190 SAINT JEAN EN ROYANS|04 75 47 72 92
+292|Serrurerie f prisset et fils|187 av st simond 73100 AIX LES BAINS|04 79 35 18 72
+293|Sas bat metal soudure|3 lot allées des gabettes 26140 SAINT RAMBERT D'ALBON|06 71 08 63 63
+294|Cochet jean-pierre|Chazey 01300 CHAZEY BONS|04 79 81 59 78
+295|Cstg developpement|78 rte ruisset 38360 NOYAREY|04 38 86 21 81
+296|Cj metal|50 chem contour 38260 LE MOTTIER|04 74 87 22 81
+297|Real ' metal 43 sasu|Zi la guide 43200 YSSINGEAUX|06 26 01 20 23
+298|Bouchard jean|130 rte yenne 73240 SAINT GENIX SUR GUIERS|04 76 31 82 92
+299|Serrurerie massardier|26 r georges clemenceau 69660 COLLONGES AU MONT D'OR|04 78 22 78 19
+300|Allo serrurier ardechois a.s.a|37 r boissy d'anglas 07100 ANNONAY|07 61 43 84 71
+301|Vgms-venet galifet metal s|169 chem fouilleux 38440 BEAUVOIR DE MARC|06 81 75 05 60
+302|Acsa serrurerie|1 r quatre fontaines 69720 SAINT BONNET DE MURE|06 21 78 57 76
+303|Morel (sarl)|134 r jacquard 38630 AVENIÈRES VEYRINS THUELLIN (LES)|04 74 33 74 41
+304|Declercq françois|265 rte pilon 69360 SOLAIZE|06 03 52 24 69
+305|Serrurerie et mecanosoudure diet|Zone artisanale 38520 LE BOURG D'OISANS|04 76 80 24 40
+306|Poirot sarl|Zone d'activité de sernier 26240 CLAVEYSON|04 75 68 82 63
+307|Delin serrurerie vitrerie|84 r république 42400 SAINT CHAMOND|06 73 28 78 47
+308|Alp'serrurerie|386 r concorde 73490 LA RAVOIRE|06 67 74 93 05
+309|Etablissements jean et cie|8 av chantereine 38300 BOURGOIN JALLIEU|04 74 28 46 13
+310|Aubert assistance|152 av paul marcellin 69120 VAULX EN VELIN|04 44 05 30 16
+311|Garcin dominique|R jean baptiste garcin 38430 SAINT JEAN DE MOIRANS|04 76 35 01 98
+312|Les clés du lac|7 av marlioz 73100 AIX LES BAINS|04 79 54 01 79
+313|Opening|3 imp sablon 38300 BOURGOIN JALLIEU|07 71 86 00 51
+314|Cstg developpement|78 rte ruisset 38360 NOYAREY|04 38 86 21 81
+315|Serrurier 2 savoies|1365 bd lepic 73100 AIX LES BAINS|07 82 59 53 17
+316|S.e serrurerie perrin|32 r jacquard 38100 GRENOBLE|04 76 68 13 09
+317|Eric besson|68 av république 38130 ECHIROLLES|04 38 49 96 40
+318|Sas bat metal soudure|3 lot allées des gabettes 26140 SAINT RAMBERT D'ALBON|06 71 08 63 63
+319|Alp'serrurerie|386 r concorde 73490 LA RAVOIRE|06 67 74 93 05
+320|A.c.m.t.s atelier constructions métalliques tôlerie serrurerie|24 r commdt lenoir 38600 FONTAINE|09 82 26 54 18
+321|Allo serrurier assistance|5 all platanes 69200 VÉNISSIEUX|06 18 30 31 15
+322|Depan' serrure vitrerie 42|18 r galliéni 42400 SAINT CHAMOND|06 16 93 69 34
+323|Serrurerie vivier|23 r sources 69540 IRIGNY|04 78 50 25 19
+324|Hoori protection incendie|370 bd balmont 69009 LYON|04 78 25 05 34
+325|C3sam|4 av joannes hubert 69160 TASSIN LA DEMI LUNE|06 61 11 89 24
+326|A3 serrurier|Rte grenoble 38420 DOMÈNE|06 86 65 12 97
+327|Poly services|79 av patinière 38500 VOIRON|04 76 65 96 13
+328|Elite artisan|21 bis av frères montgolfier 69680 CHASSIEU|07 78 07 15 75
+329|Dup métal|Parc activités du planil 42410 PÉLUSSIN|04 74 87 31 92
+330|Crebassa thierry|153 rte departementale 1086 42410 CHAVANAY|04 74 87 23 28
+331|R metal concept|6 all henri matisse 38500 LA BUISSE|06 62 10 65 09
+332|Constructions soudées lyonnaises csl|Chem chaudanne 69290 GRÉZIEU LA VARENNE|04 78 57 09 69
+333|La clef d'or|10 pl halle 42400 SAINT CHAMOND|04 77 31 61 46
+334|As security|7 chem grand bois 69120 VAULX EN VELIN|07 81 50 72 48
+335|Lyon service|63 r garibaldi 69006 LYON|04 28 29 49 93
+336|Brosse frères|3 imp louise michel 38630 AVENIÈRES VEYRINS THUELLIN (LES)|04 74 33 75 58
+337|Jn compi sarl|Rte barthélemy de laffemas 26240 BEAUSEMBLANT|04 75 23 53 90
+338|Metallerie des vallons|202 rte garenne 38110 ROCHETOIRIN|06 63 33 33 51
+339|Acampora françois - métallerie soudure|205 r sallmard 26380 PEYRINS|06 06 93 27 27
+340|Métallerie varvat|263 r hauterive 73360 LES ECHELLES|04 79 36 50 90
+341|B l t e|14 chem violettes 38280 VILLETTE D'ANTHON|06 59 20 16 97
+342|Dup métal|Parc activités du planil 42410 PÉLUSSIN|04 74 87 31 92
+343|Lpb la porte blindée|53 d r pierre sémard 38000 GRENOBLE|04 76 09 85 77
+344|Orcel jérôme|Imp gare 38630 AVENIÈRES VEYRINS THUELLIN (LES)|06 82 35 17 91
+345|Eynard et fils sarl|Le bourg 42520 ROISEY|04 74 87 47 02
+346|Gomes josé|Av chartreuse 73360 LES ECHELLES|04 79 36 55 14
+347|Hodeco serrurerie|7 ter r pierre dupont 69660 COLLONGES AU MONT D'OR|04 78 35 19 45
+348|Stci|12 av forez 07100 SAINT MARCEL LÈS ANNONAY|06 06 59 30 78
+349|Metallerie du bugey|84 chem source 01300 ARBOYS EN BUGEY|06 75 57 68 68
+350|Bonnard frères serrurerie|65 chem gau 38250 LANS EN VERCORS|04 76 95 11 36
+351|Fermetures georges|1 all oiseaux 69720 SAINT BONNET DE MURE|04 78 40 99 14
+352|Mét'alu sarl|13 r cuche 38113 VEUREY VOROIZE|04 76 53 87 13
+353|As security|7 chem grand bois 69120 VAULX EN VELIN|07 81 50 72 48
+354|Ajust|32 r emile romanet 38090 VILLEFONTAINE|06 79 66 66 26
+355|Constructions soudées lyonnaises csl|Chem chaudanne 69290 GRÉZIEU LA VARENNE|04 78 57 09 69
+356|Groom serrurier|320 av berthelot 69008 LYON|06 17 56 26 97
+357|Drumetal sarl|130 rte peisse 73420 DRUMETTAZ CLARAFOND|04 79 34 27 76
+358|A3 serrurier|Rte grenoble 38420 DOMÈNE|06 86 65 12 97
+359|Mét'alu sarl|13 r cuche 38113 VEUREY VOROIZE|04 76 53 87 13
+360|Depann&moi|54 r paul verlaine 69100 VILLEURBANNE|06 03 36 19 13
+361|Depan' serrure vitrerie 42|18 r galliéni 42400 SAINT CHAMOND|06 16 93 69 34
+362|Bps|30 bis r giraudière 69530 BRIGNAIS|06 49 32 40 97
+363|Amde|265 r barlière 38960 SAINT ETIENNE DE CROSSEY|06 19 04 09 69
+364|Metallerie des vallons|202 rte garenne 38110 ROCHETOIRIN|06 63 33 33 51
+365|Elite artisan|21 bis av frères montgolfier 69680 CHASSIEU|07 78 07 15 75
+366|Bourjal eric sarl|122 r petite charrière 38730 VIRIEU SUR BOURBRE|06 85 66 12 89
+367|Constructions soudées lyonnaises csl|Chem chaudanne 69290 GRÉZIEU LA VARENNE|04 78 57 09 69
+368|Jn compi sarl|Rte barthélemy de laffemas 26240 BEAUSEMBLANT|04 75 23 53 90
+369|Vercors serrurerie metallerie|387 rte plaine 38160 SAINT ROMANS|04 76 36 11 90
+370|Ferronnerie goubetoise|Lieu-dit part dieu 26300 CHATUZANGE LE GOUBET|04 75 47 24 15
+371|Métallerie serrurerie bruno piladelli|735 r albert pietri 38250 VILLARD DE LANS|06 16 75 40 40
+372|Pettini chaudronnerie|35 zi grives 74150 MARIGNY SAINT MARCEL|04 50 64 63 13
+373|Metallerie du bugey|84 chem source 01300 ARBOYS EN BUGEY|06 75 57 68 68
+374|Point fort fichet pms concessionnaire|30 r michel servet 69100 VILLEURBANNE|04 78 85 10 38
+375|Neri vincent|28 r rené cassin 69740 GENAS|07 62 88 75 47
+376|Neri vincent|28 r rené cassin 69740 GENAS|07 62 88 75 47
+377|Concept industrie artisan|57 av la république 38320 EYBENS|06 12 28 40 01
+378|Dépan' express habitat|155 cours berriat 38000 GRENOBLE|06 79 51 63 26
+379|Ets marchand|10 r chambfort 69100 VILLEURBANNE|07 63 31 41 41
+380|Point fort fichet pms concessionnaire|30 r michel servet 69100 VILLEURBANNE|04 78 85 10 38
+381|Sportes kévin|118 r dedieu 69100 VILLEURBANNE|06 26 63 94 00
+382|Morel nicolas|6 r poterne 07100 ANNONAY|07 81 17 21 27
+383|Conception lionel villard|2 chem des sapins 42320 SAINT CHRISTO EN JAREZ|06 75 49 74 04
+384|Ingrao sarl|18 r béarn 42800 RIVE DE GIER|06 58 72 67 92
+385|Serrurerie de l'ouest lyonnais|17 r chinard 69009 LYON|06 69 34 60 12
+386|Max modern steel|515 chem feuges 38260 LA CÔTE SAINT ANDRÉ|04 74 31 60 63
+387|Jeannon métallerie|37 r thonnevirieux 42320 FARNAY|04 77 73 47 82
+388|Coffre fort guillaudin dauphiné fermeture|1 bd gambetta 38000 GRENOBLE|04 76 46 68 47
+389|Auris service|Imm etendard 38142 AURIS EN OISANS|04 76 11 37 50
+390|Société française ornements métalliques|158 av francis de pressensé 69200 VÉNISSIEUX|04 78 69 14 76
+391|Reus et fils sarl|195 chem ravat 38200 VIENNE|04 74 87 96 47
+392|Métalliance industrie|12 r léon blum 69320 FEYZIN|04 72 89 04 89
+393|Aph alpes protec habitat|111 r liberté 38180 SEYSSINS|04 76 09 01 55
+394|Muret métal concept|190 rte cormes 07290 ARDOIX|04 75 34 42 34
+395|Aven|4 r léon blum 69320 FEYZIN|04 78 82 40 06
+396|Metallerie cmcb|18 bis r vorlat 69290 SAINT GENIS LES OLLIÈRES|09 67 48 40 77
+397|Sylvain rodriguez eurl|86 r alexandre dumas 69120 VAULX EN VELIN|06 22 91 12 45
+398|Joinin métal creation|1 pl colonel fabien 69700 GIVORS|06 61 76 95 02
+399|Dépann'urgence|16 r sébastien gryphe 69007 LYON|04 78 58 85 47
+400|2md menuiseries|56 r république 69310 PIERRE BÉNITE|04 78 86 91 68
+401|Jacm|188 chem biesset 38540 VALENCIN|06 01 73 90 83
+402|Atamultiservices|31 cours tolstoï 69100 VILLEURBANNE|07 83 93 37 98
+403|Fauveau marcel|Chem roseaux 69270 FONTAINES SAINT MARTIN|04 78 22 26 20
+404|Serrurerie métallerie taillez|16 all pressoir 74150 RUMILLY|06 16 94 33 43
+405|A2+dépannage|11 r emeraudes 69006 LYON|04 82 53 83 78
+406|Plasse pmg|15 r roger salengro 69740 GENAS|04 78 20 14 91
+407|S e c a t r a|4 imp monge 69330 MEYZIEU|04 78 20 31 06
+408|Metalsphere|265 rte huires 73160 SAINT CASSIN|06 51 16 17 18
+409|Alpes serrures|25 r résistants 38400 SAINT MARTIN D'HÈRES|06 99 08 88 89
+410|Car serrurerie cook and roule|451 rte charamel 38290 FRONTONAS|06 80 16 46 40
+411|Dep'lacour|232 rte marjon 69510 SOUCIEU EN JARREST|04 72 31 76 79
+412|Access 2b|4 r jules ferry 69360 SAINT SYMPHORIEN D'OZON|07 68 99 84 82
+413|Reseau assistance|17 r jean jaurès 69100 VILLEURBANNE|04 37 66 47 04
+414|Sampaio|8 r macchabées 69005 LYON|04 78 25 37 16
+415|Masfer|9 r traité de rome 69780 MIONS|04 78 20 32 30
+416|A2c|117 r créqui 69006 LYON|04 78 17 24 24
+417|Debroux (sarl)|11 r crets de viry 74540 ALBY SUR CHÉRAN|04 50 68 11 59
+418|Dépann'urgence|16 r sébastien gryphe 69007 LYON|04 78 58 85 47
+419|Steel metal|111 r marais 38660 LUMBIN|06 95 41 26 16
+420|S.m.j|8 r claude bruyas 42800 SAINT MARTIN LA PLAINE|04 77 92 65 44
+421|Concept-inox|Le biais 38070 SAINT QUENTIN FALLAVIER|07 82 97 82 41
+422|Rauze ets|Fiatet 69210 SAIN BEL|04 74 01 26 26
+423|Cométal serrures|5 imp charvet 38600 FONTAINE|04 76 96 97 28
+424|A2b savoie|398 rte col de l'epine 73470 NOVALAISE|04 79 36 10 92
+425|Chanard-fsra|4 r marius berliet 69720 SAINT BONNET DE MURE|04 78 40 80 32
+426|L'art du fer des alpes|1540 rte valence 38160 SAINT ROMANS|04 76 38 64 95
+427|Metal work|Le haut marjon 69510 SOUCIEU EN JARREST|04 72 40 21 44
+428|Jacm|188 chem biesset 38540 VALENCIN|06 01 73 90 83
+429|Atlan habitat|19 r notre dame 69006 LYON|06 29 62 42 52
+430|F.m.c alu|21 chem chiradie 69530 BRIGNAIS|04 78 05 17 99
+431|Alpes serrures|25 r résistants 38400 SAINT MARTIN D'HÈRES|06 99 08 88 89
+432|S2mr|10 r marc seguin 69740 GENAS|06 24 21 92 93
+433|Serrurerie massot|8 r myosotis 69110 SAINTE FOY LÈS LYON|04 78 59 64 57
+434|Lobligeois florent|2 bis chem neuf 01800 SAINT MAURICE DE GOURDANS|07 86 25 41 95
+435|Métallerie industrielle giraud m.i.g-sa|30 zone artisanale bruyères 38150 AGNIN|04 74 84 02 80
+436|Tochon alexy|321 r doct gasca 73290 LA MOTTE SERVOLEX|07 71 17 63 04
+437|Cool depannage|5 r joseph bouchayer 38100 GRENOBLE|04 76 48 68 15
+438|Muret métal concept|190 rte cormes 07290 ARDOIX|04 75 34 42 34
+439|Fontaine serrurerie|84 r progrès 38170 SEYSSINET PARISET|04 76 48 38 85
+440|3 s schont serrurerie service|20 r maison forte 38460 VILLEMOIRIEU|07 69 98 39 99
+441|Dep'lacour|232 rte marjon 69510 SOUCIEU EN JARREST|04 72 31 76 79
+442|L'art du fer des alpes|1540 rte valence 38160 SAINT ROMANS|04 76 38 64 95
+443|Concept acier|610 rte ecole 38470 SAINT GERVAIS|06 47 82 88 84
+444|C.i.s.m|10 imp charvet 38600 FONTAINE|04 76 21 74 73
+445|Aph alpes protec habitat|111 r liberté 38180 SEYSSINS|04 76 09 01 55
+446|Saunier - plumaz et fils|268 chem champs elysées 38660 LA TERRASSE|04 76 96 41 42
+447|Reseau assistance|17 r jean jaurès 69100 VILLEURBANNE|04 37 66 47 04
+448|Diagonale|Chem rosette 69440 TALUYERS|04 78 48 39 79
+449|Expert serrurerie|6 r milieu 69003 LYON|06 01 03 38 18
+450|Prod'alu 38|65 chem plateau 38270 BEAUREPAIRE|04 74 84 63 56
+451|Fontaine serrurerie|84 r progrès 38170 SEYSSINET PARISET|04 76 48 38 85
+452|Decor inox a . a . m . sarl|11 r nant bore 74540 ALBY SUR CHÉRAN|04 50 68 18 23
+453|Bazille serrurerie|680 rte genève 01700 BEYNOST|07 83 94 39 39
+454|Auris service|Imm etendard 38142 AURIS EN OISANS|04 76 11 37 50
+455|Muret métal concept|190 rte cormes 07290 ARDOIX|04 75 34 42 34
+456|A2b savoie|398 rte col de l'epine 73470 NOVALAISE|04 79 36 10 92
+457|Expert serrurerie|6 r milieu 69003 LYON|06 01 03 38 18
+458|Dep'lacour|232 rte marjon 69510 SOUCIEU EN JARREST|04 72 31 76 79
+459|Audric decock|20 quai charezieux 69270 SAINT ROMAIN AU MONT D'OR|06 61 88 52 29
+460|Eurl lefebvre|4 all textile 69120 VAULX EN VELIN|04 72 37 56 90
+461|F.m.c alu|21 chem chiradie 69530 BRIGNAIS|04 78 05 17 99
+462|Steel metal|111 r marais 38660 LUMBIN|06 95 41 26 16
+463|Metal work|Le haut marjon 69510 SOUCIEU EN JARREST|04 72 40 21 44
+464|Plasse pmg|15 r roger salengro 69740 GENAS|04 78 20 14 91
+465|Cométal serrures|5 imp charvet 38600 FONTAINE|04 76 96 97 28
+466|Reseau assistance|17 r jean jaurès 69100 VILLEURBANNE|04 37 66 47 04
+467|Rauze ets|Fiatet 69210 SAIN BEL|04 74 01 26 26
+468|Reus et fils sarl|195 chem ravat 38200 VIENNE|04 74 87 96 47
+469|Serrurerie munoz|57 chem loup 38080 SAINT MARCEL BEL ACCUEIL|04 74 27 66 66
+470|Métalliance industrie|12 r léon blum 69320 FEYZIN|04 72 89 04 89
+471|2md menuiseries|56 r république 69310 PIERRE BÉNITE|04 78 86 91 68
+472|Métal service|10 r iles 38420 DOMÈNE|04 76 77 35 24
+473|Lafont raymond|Les quartelees 07340 VINZIEUX|06 25 70 18 31
+474|S2mr|10 r marc seguin 69740 GENAS|06 24 21 92 93
+475|Cap'depann|Chem sources 38240 MEYLAN|06 63 83 08 48
+476|Dastugue bernard|860 rte st pierre 38450 SAINT GEORGES DE COMMIERS|06 46 53 87 70
+477|Metalsphere|265 rte huires 73160 SAINT CASSIN|06 51 16 17 18
+478|Serrurerie munoz|57 chem loup 38080 SAINT MARCEL BEL ACCUEIL|04 74 27 66 66
+479|Reus et fils sarl|195 chem ravat 38200 VIENNE|04 74 87 96 47
+480|Sarl ville françois|Messimy 69510 MESSIMY|06 74 70 34 80
+481|Ams metallerie|66 r jean moulin 38140 RENAGE|06 42 71 08 69
+482|Fontaine serrurerie|84 r progrès 38170 SEYSSINET PARISET|04 76 48 38 85
+483|Prod'alu 38|65 chem plateau 38270 BEAUREPAIRE|04 74 84 63 56
+484|Bievre depannage serrurerie|16 all roseraie 38690 LE GRAND LEMPS|04 74 33 06 02
+485|Delafosse ivan|18 cité roses 38190 VILLARD BONNOT|06 14 33 34 23
+486|Les2aa dépannage multiservices sarl|19 r gilibert 69002 LYON|04 78 42 42 42
+487|Dépann' tout|4 pré breton têche 38470 VINAY|06 08 23 80 44
+488|A2m atelier maintenance métallerie|Rte nationale 6 73800 MONTMÉLIAN|04 79 84 31 66
+489|Mse (sarl)|12 r serrières 69540 IRIGNY|06 45 73 22 20
+490|Altes services|12 r colibris 38100 GRENOBLE|06 43 35 57 17
+491|Serrurerie des monts d'or|15 bis r georges clemenceau 69660 COLLONGES AU MONT D'OR|06 18 30 41 29
+492|Thevenon thierry serrurerie t.c.s|50 r république 38440 SAINT JEAN DE BOURNAY|06 75 61 05 69
+493|Top depannage|214 bis r 4 août 69100 VILLEURBANNE|04 82 98 70 39
+494|Confort et sécurité|40 r bruxelles 69100 VILLEURBANNE|04 72 62 86 98
+495|Martin didier|4 imp pastourelle 38230 CHARVIEU CHAVAGNEUX|06 22 04 97 69
+496|Adispo serrurier|Montée st marcel 38200 VIENNE|06 29 31 78 35
+497|Mdv métallerie du vivarais|Rocher dessus 07270 EMPURANY|06 78 74 23 80
+498|Marcel thierry|539 av uriage 38410 VAULNAVEYS LE HAUT|04 76 52 18 50
+499|Agc amélioration de l'habitat sarl|421 rte ecoliers 38440 CHÂTONNAY|04 74 58 38 76
+500|Métallerie claude rognard|98 av gén leclerc 38540 HEYRIEUX|04 78 96 10 25
+501|Buat jean-claude|227 chem pit 38340 VOREPPE|04 76 50 26 74
+502|Serrurerie alpes isère|15 av danièle casanova 38130 ECHIROLLES|06 73 86 31 55
+503|C prunier|460 rte champfeuillet 38430 MOIRANS|06 24 68 05 12
+504|Roux vincent|72 r marseille 26140 SAINT RAMBERT D'ALBON|06 01 63 34 62
+505|A2ss serrurerie|49 r denuzière 69002 LYON|06 46 78 64 48
+506|Conception métallique hervé|20 r belledonne 38320 EYBENS|06 23 60 76 78
+507|Nature 3000|Combe 38160 CHEVRIÈRES|04 76 64 11 73
+508|Ben romdhane bouchouicha mohamed|1 bis r arcelle 38600 FONTAINE|04 56 45 86 25
+509|Jarez fermeture|136 montée peraya 42800 SAINT ROMAIN EN JAREZ|04 77 20 73 45
+510|Servonnat metallerie serrurerie sms|13 r louise michel 69100 VILLEURBANNE|04 78 53 27 24
+511|S.f.a.b|18 r louis aulagne 69600 OULLINS|04 78 50 40 40
+512|B2m|590 chem regardin 38260 LE MOTTIER|04 74 56 72 62
+513|Maigret dominique|14 petite rue collonges 69230 SAINT GENIS LAVAL|06 14 41 57 37
+514|S.e.r.d.i sarl|Zone artisanale pichatière 38430 MOIRANS|04 76 35 33 33
+515|Mazenet patrice|25 r jean rostang 69680 CHASSIEU|06 15 58 47 69
+516|Charriere jean-michel|29 r andré chénier 69330 MEYZIEU|06 71 93 12 65
+517|Ag services|21 r cité 38180 SEYSSINS|04 76 21 34 00
+518|Euroracks|8 r marcel bramet 69500 BRON|04 78 26 79 71
+519|Servonnat metallerie serrurerie sms|13 r louise michel 69100 VILLEURBANNE|04 78 53 27 24
+520|Smts|14 r christian lacouture 69500 BRON|06 65 10 18 68
+521|Serrurerie plus|1 bis r doct jean paillot 73100 AIX LES BAINS|07 86 86 55 08
+522|Amp atelier métallerie pourras|1 r artisanat 69670 VAUGNERAY|06 68 47 08 36
+523|Sdi (serrurerie dépannage industriel)|11 imp yette 38150 ROUSSILLON|07 60 22 62 14
+524|Métallerie claude rognard|98 av gén leclerc 38540 HEYRIEUX|04 78 96 10 25
+525|Mikmetal|296 chem verchere 38290 FRONTONAS|06 22 99 05 76
+526|Top tube industrie|Zi dauphinieres 38138 LES CÔTES D'AREY|04 74 58 80 73
+527|Romain chastand|15 r scierie 38070 SAINT QUENTIN FALLAVIER|07 86 24 42 07
+528|Sos dépannage|16 r mail 69004 LYON|04 78 29 29 29
+529|Moreno|2 r marc seguin 69740 GENAS|04 72 02 06 80
+530|Boyer et casset serrurerie|46 r henri moissan 69310 PIERRE BÉNITE|04 78 51 47 69
+531|Bl dépann'|44 av victor hugo 69160 TASSIN LA DEMI LUNE|04 72 59 01 38
+532|Serrurerie des 2 murs|11 r georges polossat 69720 SAINT LAURENT DE MURE|06 04 44 67 33
+533|Ben romdhane bouchouicha mohamed|1 bis r arcelle 38600 FONTAINE|04 56 45 86 25
+534|Toumeto|2 chem gorges 38470 COGNIN LES GORGES|06 24 86 16 59
+535|A2ss serrurerie|49 r denuzière 69002 LYON|06 46 78 64 48
+536|Métallerie sud est|R victor duplessis 38290 LA VERPILLIÈRE|04 74 95 31 69
+537|Serrurerie alpes isère|15 av danièle casanova 38130 ECHIROLLES|06 73 86 31 55
+538|Côte alain|315 rte lapeyrouse 26210 MANTHES|04 75 31 92 05
+539|Abf plomberie|Rte nationale 7 26600 LA ROCHE DE GLUN|06 21 09 32 60
+540|Sf metal|50 r ernest renan 69120 VAULX EN VELIN|06 16 74 79 18
+541|La clé|91 av benoît frachon 38400 SAINT MARTIN D'HÈRES|04 76 42 48 62
+542|Ouverture assistance|69 bd lénine 69200 VÉNISSIEUX|06 24 96 91 79
+543|Abc academia fermeture|52 r inkermann 69006 LYON|06 19 78 53 72
+544|Artidep|37 r doct françois cassetti 69290 GRÉZIEU LA VARENNE|06 62 39 69 69
+545|Stp|90 r vercors 38260 PAJAY|04 74 20 65 29
+546|Lasné|493 chem st anthelme 38380 MIRIBEL LES ECHELLES|06 86 14 10 77
+547|Entreprise v.m.s.|86 montée crépons 42410 LA CHAPELLE VILLARS|06 71 46 70 30
+548|A . i . f creations|102 r fleury jay 69520 GRIGNY|04 72 30 84 98
+549|Dediclef|1 r albert thomas 69300 CALUIRE ET CUIRE|06 60 76 81 61
+550|Rolland gilles|84 rte villeneuve de marc 38440 MEYSSIEZ|06 07 76 72 80
+551|Bss bouchara serrurerie service|12 r orléans 69330 MEYZIEU|06 09 82 53 61
+552|Ap2m|29 r martyrs 69230 SAINT GENIS LAVAL|04 27 89 95 61
+553|Descombris bertrand|7 r renée peillon 42400 SAINT CHAMOND|06 08 42 75 32
+554|Serurerie metallerie conce|R narvik 38550 SAINT MAURICE L'EXIL|09 67 83 69 13
+555|Bievre depannage serrurerie|16 all roseraie 38690 LE GRAND LEMPS|04 74 33 06 02
+556|Laforge hervé|24 r alpignano 38600 FONTAINE|04 76 53 20 71
+557|Atelier des garelles|87 rte lyon 69690 BESSENAY|09 54 32 12 43
+558|Abc academia fermeture|52 r inkermann 69006 LYON|06 19 78 53 72
+559|Chardard patrick|18 av val de saône 69580 SATHONAY CAMP|06 03 51 24 19
+560|M2b|La ronze 69440 TALUYERS|04 78 48 20 07
+561|Ambiance métal|Rte six vallées 38220 GAVET|06 79 82 25 52
+562|Serrurerie doriath|2 r chardonnerets 69780 MIONS|07 77 39 76 71
+563|Bourjal|260 r eglise 38730 CHÉLIEU|04 37 06 37 23
+564|Ox idee sarl|200 r barthélémy thimonnier 69530 BRIGNAIS|06 67 46 61 94
+565|Tournier philippe|La plaine 38160 CHEVRIÈRES|04 76 64 25 63
+566|Clerc-renaud|9 r talma 73100 AIX LES BAINS|09 66 12 23 77
+567|A . i . f creations|102 r fleury jay 69520 GRIGNY|04 72 30 84 98
+568|Marchand andré|15 r barodet 69004 LYON|04 78 28 71 46
+569|A2tc|224 che saluant 38370 SAINT PRIM|04 74 79 87 58
+570|Serrurerie des 2 murs|11 r georges polossat 69720 SAINT LAURENT DE MURE|06 04 44 67 33
+571|Es2m|41 r paul michal 38590 SILLANS|04 76 93 87 61
+572|Electro fer|28 r louis saillant 69120 VAULX EN VELIN|06 87 29 04 05
+573|Serrurerie coudeyre|28 r maurice dubost 69420 CONDRIEU|06 11 28 61 85
+574|Adispo serrurier|Montée st marcel 38200 VIENNE|06 29 31 78 35
+575|Eric serrurerie|42 av plaine fleurie 38240 MEYLAN|04 76 24 03 89
+576|Serrurerie systeme|163 chem botet 38330 BIVIERS|06 08 16 99 73
+577|Rolland gilles|84 rte villeneuve de marc 38440 MEYSSIEZ|06 07 76 72 80
+578|Descombris bertrand|7 r renée peillon 42400 SAINT CHAMOND|06 08 42 75 32
+579|11 industrie|6 av doct schweitzer 69330 MEYZIEU|06 14 98 78 19
+580|A2ss serrurerie|49 r denuzière 69002 LYON|06 46 78 64 48
+581|Oderio jimmy|28 r jean moulin 38130 ECHIROLLES|06 76 09 35 07
+582|Brindas métal sarl|96 r pré magne 69126 BRINDAS|04 78 45 40 04
+583|A2tc|224 che saluant 38370 SAINT PRIM|06 85 20 45 97
+584|Ferplait|Lieu-dit gonnards 73100 SAINT OFFENGE|06 47 80 84 33
+585|Protiere et cie|24 r marseille 69007 LYON|06 12 25 23 48
+586|Travaux et polyvalence sarl|181 chem vignerons 38290 LA VERPILLIÈRE|04 74 94 30 14
+587|Gones services|65 r 4 août 69100 VILLEURBANNE|04 78 90 47 35
+588|Allo lyon dépannage|17 bis av chantelot 69520 GRIGNY|04 72 24 51 48
+589|Thevenon thierry serrurerie t.c.s|50 r république 38440 SAINT JEAN DE BOURNAY|06 75 61 05 69
+590|S.f metallerie concept|Zone d'activité de verlieu 42410 CHAVANAY|04 74 20 52 97
+591|Métallerie béraud|170 chem vignes 07290 SAINT ROMAIN D'AY|07 86 25 54 66
+592|Chardard patrick|18 av val de saône 69580 SATHONAY CAMP|06 03 51 24 19
+593|Oderio jimmy|28 r jean moulin 38130 ECHIROLLES|06 76 09 35 07
+594|Allo serrurier|8 r vladimir komarov 69200 VÉNISSIEUX|06 08 42 30 36
+595|Missions serrurerie|24 chem charrière blanche 69130 ECULLY|04 72 54 47 69
+596|Ranc sarl|247 rte genas 69100 VILLEURBANNE|04 78 54 23 47
+597|Sc aci|8 all etienne buyat 69150 DÉCINES CHARPIEU|06 19 63 10 81
+598|Métral lilian|72 all sud 38270 JARCIEU|04 74 57 27 19
+599|Grésimétal|11 r paul vaillant couturier 38190 FROGES|04 76 97 75 82
+600|Boyer et casset serrurerie|46 r henri moissan 69310 PIERRE BÉNITE|04 78 51 47 69
+601|Chareyron et fils|6 av doct schweitzer 69330 MEYZIEU|04 72 02 72 96
+602|Mazenet patrice|25 r jean rostang 69680 CHASSIEU|06 15 58 47 69
+603|E.r.s|76 av vercors 38170 SEYSSINET PARISET|04 76 84 99 08
+604|Service rhônes-alpes|72 cours république 69100 VILLEURBANNE|04 78 03 19 76
+605|A.l..j serrurerie métallerie|Chem freyssinet 69700 GIVORS|06 86 84 67 98
+606|Coffre plus securite sas|5 av alpes 38300 BOURGOIN JALLIEU|09 63 65 89 73
+607|Métal cg|14 bis r claude curtat 69330 MEYZIEU|09 81 80 94 97
+608|Mts|2 r emile zola 69330 MEYZIEU|04 78 89 47 41
+609|Interface serrurerie|5 r alfred gueymard 38400 SAINT MARTIN D'HÈRES|06 28 07 65 80
+610|Fermetures protections lyonnaises|3 all cèdres 69100 VILLEURBANNE|04 72 14 09 94
+611|Cp métal|310 imp ronzates 07340 TALENCIEUX|06 75 39 29 41
+612|Adispo serrurier|Montée st marcel 38200 VIENNE|06 29 31 78 35
+613|Gones services|65 r 4 août 69100 VILLEURBANNE|04 78 90 47 35
+614|Grésimétal|11 r paul vaillant couturier 38190 FROGES|04 76 97 75 82
+615|Dfoa commandeur|725 bis rte viretard 26260 CLÉRIEUX|04 75 71 56 46
+616|Chapelle olivier|Lieu-dit seyoux 42800 SAINTE CROIX EN JAREZ|06 83 53 40 26
+617|Defond laurent|2 chem epinette 69270 FONTAINES SAINT MARTIN|04 78 22 40 23
+618|Durieu rene|R laverlochère 38780 PONT EVÊQUE|04 74 85 99 05
+619|Ox-idee|108 r barthélémy thimonnier 69530 BRIGNAIS|06 67 46 61 94
+620|Home securite universel|1947 rte plan 38200 LUZINAY|04 74 57 00 46
+621|Chardard patrick|18 av val de saône 69580 SATHONAY CAMP|06 03 51 24 19
+622|Batiroc protect entr serrurerie coffrage metal chaudro|149 chem platières 38670 CHASSE SUR RHÔNE|04 78 07 01 19
+623|Créastill|3 quart bruyères 38230 CHAVANOZ|04 78 32 19 11
+624|Est|364 r 4 chemins 69390 MILLERY|04 72 31 04 33
+625|Mdv métallerie du vivarais|Rocher dessus 07270 EMPURANY|06 78 74 23 80
+626|B&b services dépannage|39 r francis de pressensé 69100 VILLEURBANNE|04 28 29 62 80
+627|Ranc sarl|247 rte genas 69100 VILLEURBANNE|04 78 54 23 47
+628|M.s.t.i.|Chem anvers 69850 DUERNE|04 78 19 12 47
+629|Stephan pierre|10 r pré du sud 69330 JONAGE|06 46 49 70 65
+630|Ag services|21 r cité 38180 SEYSSINS|04 76 21 34 00
+631|Alpha service|10 r gallice 38100 GRENOBLE|06 80 97 70 46
+632|Chareyron et fils|6 av doct schweitzer 69330 MEYZIEU|04 72 02 72 96
+633|Atelier des artisans associés spécialisé|61 r marx dormoy 38000 GRENOBLE|04 76 96 12 52
+634|Ets serrano|22 bd lucien sampaix 69190 SAINT FONS|04 78 67 41 69
+635|Pisios baptiste|Les adrets 38190 LES ADRETS|06 25 80 61 26
+636|S.e.r.d.i sarl|Zone artisanale pichatière 38430 MOIRANS|04 76 35 33 33
+637|Bayard maintenance industrielle|14 all mine 38190 VILLARD BONNOT|04 76 71 60 37
+638|Delacroix sas|86 rte nationale 6 73190 SAINT JEOIRE PRIEURÉ|04 79 70 86 43
+639|Ap2m|29 r martyrs 69230 SAINT GENIS LAVAL|04 27 89 95 61
+640|Robert laurans|Pl souvenir 26600 PONT DE L'ISÈRE|04 75 84 79 19
+641|Ferplait|Lieu-dit gonnards 73100 SAINT OFFENGE|06 47 80 84 33
+642|11 industrie|6 av doct schweitzer 69330 MEYZIEU|06 14 98 78 19
+643|Gones services|65 r 4 août 69100 VILLEURBANNE|04 78 90 47 35
+644|Top depannage|214 bis r 4 août 69100 VILLEURBANNE|04 82 98 70 39
+645|Pastor antoine|155 montée gravetan 38540 SAINT JUST CHALEYSSIN|06 78 40 59 58
+646|Brosse david|Lieu-dit gimio 69590 LARAJASSE|06 50 24 89 54
+647|Thevenon thierry serrurerie (t.c.s)|50 r république 38440 SAINT JEAN DE BOURNAY|06 75 61 05 69
+648|Serrurerie métallerie du gier|10 r garat 42152 L'HORME|06 84 78 00 55
+649|A2n services ae|11 bis r louis braille 69100 VILLEURBANNE|06 66 20 02 71
+650|Dediclef|1 r albert thomas 69300 CALUIRE ET CUIRE|06 60 76 81 61
+651|Jarez fermeture|136 montée peraya 42800 SAINT ROMAIN EN JAREZ|04 77 20 73 45
+652|Bl dépann'|44 av victor hugo 69160 TASSIN LA DEMI LUNE|04 72 59 01 38
+653|B2m|590 chem regardin 38260 LE MOTTIER|04 74 56 72 62
+654|Brosse david|Lieu-dit gimio 69590 LARAJASSE|06 50 24 89 54
+655|Garcia josé|3 av bruyères 38790 DIÉMOZ|06 32 68 68 96
+656|Metallodrome|Chem carabony 26320 SAINT MARCEL LÈS VALENCE|04 75 61 03 88
+657|Martins dos santos johnny|145 av francis de pressensé 69200 VÉNISSIEUX|06 25 60 36 89
+658|Allo lyon dépannage|25 r jules ferry 69520 GRIGNY|06 81 00 69 65
+659|Pastor antoine|155 montée gravetan 38540 SAINT JUST CHALEYSSIN|06 78 40 59 58
+660|Batiroc protect entr serrurerie coffrage metal chaudro|149 chem platières 38670 CHASSE SUR RHÔNE|04 78 07 01 19
+661|Toumeto|2 chem gorges 38470 COGNIN LES GORGES|06 24 86 16 59
+662|Bievre depannage serrurerie|16 all roseraie 38690 LE GRAND LEMPS|04 74 33 06 02
+663|Messina gaëtan|1400 rte laffrey 38220 NOTRE DAME DE MÉSAGE|04 76 78 98 31
+664|Marchand andré|15 r barodet 69004 LYON|04 78 28 71 46
+665|Act'metal|1 r jean macé 69360 SAINT SYMPHORIEN D'OZON|04 78 02 42 74
+666|Chiarenza vincent|31 r massenet 38100 GRENOBLE|04 76 33 01 24
+667|S.e.r.d.i sarl|Zone artisanale pichatière 38430 MOIRANS|04 76 35 33 33
+668|Les2aa dépannage multiservices sarl|19 r gilibert 69002 LYON|04 78 42 42 42
+669|Métallerie sud est|R victor duplessis 38290 LA VERPILLIÈRE|04 74 95 31 69
+670|Serurerie metallerie conce|R narvik 38550 SAINT MAURICE L'EXIL|09 67 83 69 13
+671|Stephan pierre|10 r pré du sud 69330 JONAGE|06 46 49 70 65
+672|S.p.m.i|27 r marseille 26140 SAINT RAMBERT D'ALBON|04 75 03 43 35
+673|Portes de savoie|57 montée batie 73360 SAINT CHRISTOPHE LA GROTTE|04 79 62 24 35
+674|Brosse david|Lieu-dit gimio 69590 LARAJASSE|06 50 24 89 54
+675|Sonneville laurent|9 rte pont de cheruy 69124 COLOMBIER SAUGNIEU|04 78 72 22 35
+676|Dediclef|1 r albert thomas 69300 CALUIRE ET CUIRE|06 60 76 81 61
+677|Eric serrurerie|42 av plaine fleurie 38240 MEYLAN|04 76 24 03 89
+678|Vallin daniel|765 chem arnaude 42410 SAINT MICHEL SUR RHÔNE|04 74 59 58 80
+679|Sv services|55 rte marennes 69360 SIMANDRES|06 51 51 85 69
+680|Dautel philippe|55 rte bordeaux 69290 GRÉZIEU LA VARENNE|06 09 41 15 69
+681|Entreprise guillot|61 r marx dormoy 38000 GRENOBLE|04 76 96 12 52
+682|Bourjal|260 r eglise 38730 CHÉLIEU|04 37 06 37 23
+683|Fanjat et cie|85 r andré sentuc 69200 VÉNISSIEUX|04 78 93 45 98
+684|Diffusion plaques internationales|107 r pierre corneille 69003 LYON|06 19 57 12 36
+685|Batitech|2 r james condamin 42400 SAINT CHAMOND|06 15 62 41 24
+686|Metal'is|9 av berthelot 42152 L'HORME|06 03 45 60 38
+687|Js metal|Le fléchet 69850 DUERNE|06 86 50 13 77
+688|Gpmetallerie|Les barres 26600 SERVES SUR RHÔNE|04 75 31 26 08
+689|Reus et fils|10 lot cèdres 38780 ESTRABLIN|04 74 57 82 97
+690|Sérrurerie norbert yu alain torgue sarl|30 r molière 69006 LYON|04 78 24 73 28
+691|Dediclef|1 r albert thomas 69300 CALUIRE ET CUIRE|06 60 76 81 61
+692|Chanut sarl|32 chem mouilles 69290 GRÉZIEU LA VARENNE|04 78 81 24 16
+693|Marchand andré|15 r barodet 69004 LYON|04 78 28 71 46
+694|S.m.a|10 r rené camphin 38600 FONTAINE|04 76 27 34 81
+695|Simon andré|94 av roger salengro 69100 VILLEURBANNE|07 83 11 34 00
+696|Allô serrurier|1 av berliet 69200 VÉNISSIEUX|04 78 00 69 90
+697|Coolfabrik|Le coutellier 42220 BURDIGNES|04 77 51 20 61
+698|Abf plomberie|Rte nationale 7 26600 LA ROCHE DE GLUN|06 21 09 32 60
+699|Amp atelier métallerie pourras|1 r artisanat 69670 VAUGNERAY|06 68 47 08 36
+700|Ms scarfo|Av berthelot 38370 SAINT CLAIR DU RHÔNE|04 26 05 33 01
+701|Malo|25 r marjoera 38760 VARCES ALLIÈRES ET RISSET|04 76 72 82 92
+702|Serrurerie du vieux lyon|30 r bourbonnais 69009 LYON|06 07 41 57 91
+703|Adn serrurerie|20 chem peyrard 42400 SAINT CHAMOND|06 27 16 51 25
+704|Serviceclient|12 r reluisant 38460 VILLEMOIRIEU|04 72 80 96 26
+705|Lyon metropole serrurerie|1 r laurent paul 69110 SAINTE FOY LÈS LYON|06 52 41 56 41
+706|Sf metal|50 r ernest renan 69120 VAULX EN VELIN|06 16 74 79 18
+707|Espace métal|12 imp château 38090 ROCHE|04 74 92 76 91
+708|Ap2m|29 r martyrs 69230 SAINT GENIS LAVAL|04 27 89 95 61
+709|Alpha service|10 r gallice 38100 GRENOBLE|06 80 97 70 46
+710|Adispo serrurier|Montée st marcel 38200 VIENNE|06 29 31 78 35
+711|Easyclefs team clefs|70 r laennec 69008 LYON|04 72 34 07 26
+712|Galland jérémie|205 chem lauriers 69590 LARAJASSE|06 89 97 29 34
+713|Service rhônes-alpes|72 cours république 69100 VILLEURBANNE|04 78 03 19 76
+714|Diatech systeme|4 r jules ferry 69360 SAINT SYMPHORIEN D'OZON|07 68 02 84 40
+715|Bsm|29 r st cyr girier 38290 LA VERPILLIÈRE|04 74 94 42 66
+716|Amate marc|8 lot delphines 38440 CHÂTONNAY|06 40 25 30 87
+717|Amp atelier métallerie pourras|1 r artisanat 69670 VAUGNERAY|06 68 47 08 36
+718|T . r . k (travaux realisations kerbrat)|85 r moirond 38420 DOMÈNE|06 16 36 12 18
+719|Mazenet patrice|25 r jean rostang 69680 CHASSIEU|06 15 58 47 69
+720|Chanut sarl|32 chem mouilles 69290 GRÉZIEU LA VARENNE|04 78 81 24 16
+721|Metallerie serrurerie vercellino|10 r blaise pascal 38140 IZEAUX|04 76 93 80 46
+722|Ms scarfo|Av berthelot 38370 SAINT CLAIR DU RHÔNE|04 26 05 33 01
+723|B.e.r.m|48 chem montbel 69390 VOURLES|04 72 31 16 18
+724|Top tube industrie|Zi dauphinieres 38138 LES CÔTES D'AREY|04 74 58 80 73
+725|Moulin christophe|1 chem roseaux 38190 VILLARD BONNOT|04 76 71 57 09
+726|Roux vincent|72 r marseille 26140 SAINT RAMBERT D'ALBON|06 01 63 34 62
+727|Grange mécano soudure|Les côtes 73190 SAINT JEOIRE PRIEURÉ|04 79 71 68 38
+728|Travaux et polyvalence (sarl)|181 chem vignerons 38290 LA VERPILLIÈRE|04 74 94 30 14
+729|Mecal invest|11 imp coquelicots 69800 SAINT PRIEST|04 78 40 34 32
+730|Electro fer|28 r louis saillant 69120 VAULX EN VELIN|06 87 29 04 05
+731|Kassama fouad|13 lot tsse de romanche 38220 NOTRE DAME DE MÉSAGE|06 64 33 21 37
+732|Malo|25 r marjoera 38760 VARCES ALLIÈRES ET RISSET|04 76 72 82 92
+733|Chapus serrurerie métallerie|Hlm la piche 38430 MOIRANS|04 76 35 47 47
+734|Pisios baptiste|Les adrets 38190 LES ADRETS|06 25 80 61 26
+735|Chapelle olivier|Lieu-dit seyoux 42800 SAINTE CROIX EN JAREZ|06 83 53 40 26
+736|Société nouvelle sovoldelli|7 av karl marx 69120 VAULX EN VELIN|04 72 82 36 34
+737|Grandguillotte alain|R sure 38600 FONTAINE|06 07 30 75 00
+738|Serrurerie des monts d'or|15 bis r georges clemenceau 69660 COLLONGES AU MONT D'OR|06 18 30 41 29
+739|Stéph'serrurerie|6 imp mésanges 69330 PUSIGNAN|04 78 31 39 95
+740|Hamoum jean-michel|371 rte aqueduc 42320 CELLIEU|06 03 75 14 65
+741|Pastor antoine|155 montée gravetan 38540 SAINT JUST CHALEYSSIN|06 78 40 59 58
+742|Entreprise v.m.s.|86 montée crépons 42410 LA CHAPELLE VILLARS|06 71 46 70 30
+743|Durieu rene|R laverlochère 38780 PONT EVÊQUE|04 74 85 99 05
+744|Cesa eric|77 r rené clair 07430 DAVÉZIEUX|06 11 55 72 67
+745|Soudem constructions sas|125 voie galilée 73800 FRANCIN|04 79 84 47 24
+746|Arnaud metais|116 r vauban 69006 LYON|06 71 19 85 18
+747|Cym serrurerie|4 imp de la tour 38790 SAINT GEORGES D'ESPÉRANCHE|04 74 59 12 28
+748|Buat jean-claude|227 chem pit 38340 VOREPPE|04 76 50 26 74
+749|Serrurerie gén bonnette sarl|4 r rené camphin 38600 FONTAINE|04 76 53 12 66
+750|Cfers|1 pl boirie 69420 LONGES|06 33 86 36 62
